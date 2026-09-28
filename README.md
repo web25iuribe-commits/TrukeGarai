@@ -73,7 +73,7 @@ Gure erabiltzaile nagusia **brikolaje-zale eraginkorra** da:
 ---
 
 ### Botoiak
-- **Nagusia:** Berde atsegina, izkina oso biribilduak, testu zuriarekin.
+- **Nagusia:** Berde atsegina, eskinak biribilduak, testu zuriarekin.
 - **Sekundarioa:** Zuria, ertz finarekin edo atzeko plano gris argiarekin.
 
 ---
