@@ -42,3 +42,44 @@ Gure erabiltzaile nagusia **brikolaje-zale eraginkorra** da:
 ### Zein arazo konpontzen dizkiogu?
 *  **Beste web batzuetako arazoak:** Gauza gehiegi nahasita, orri konplexuak, txatetan denbora galtzea edo tresnak hondatzeko beldurra.
 *  **Gure soluzioa:** Proiektukako kitak, erreserba eta ordainketa azkarrak, babes-asegurua eta plataforma oso erraz eta intuitiboa.
+
+---
+
+### Koloreak
+- **Berde Nagusia:** Botoi nagusiak, akzioak, aktibo dauden ikonoak eta aukeratutako elementuak.
+- **Gris Argia:** Atzeko planoak, bilaketa-barrak, txarten background-a eta banatzaileak.
+- **Beltza / Gris Iluna:** Tituluak eta testu nagusiak.
+- **Zuria:** Txartelen barrukaldea eta botoi batzuen atzeko planoa.
+
+---
+
+### Tipografia
+- **Mota:** Modernoa, Sans-Serif.
+- **Pisua (Weights):**
+  - **Lodia:** Titulu, prezio eta elementu garrantzitsuetarako.
+  - **Normala:** Deskribapen eta testu txikietarako.
+
+---
+
+### Ikonoak
+- **Beheko Menua:**
+  - Hasiera
+  - Arakatu / Bilatu
+  - Lokairuak / Egutegia
+  - Mezuak / Txat
+  - Profila
+- **Beste batzuk:** Lupa, Gehitu (+), Kokapena (pin), Bihotza (Gogokoak), Balorazio izarrak.
+
+---
+
+### Botoiak
+- **Nagusia:** Berde atsegina, izkina oso biribilduak, testu zuriarekin.
+- **Sekundarioa:** Zuria, ertz finarekin edo atzeko plano gris argiarekin.
+
+---
+
+### Irudiak
+- **Produktuak:** Txartel karratu edo errektangularrak izkina biribildu txikiekin.
+- **Erabiltzaileak:** Profil irudi borobil-borobilak.
+
+
