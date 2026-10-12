@@ -153,8 +153,6 @@ Prototipoan erabilitako irudi eta ikonoek beren jatorrizko lizentziak dituzte.
 
 ## 9. Erabilgarritasunaren azterketa
 
-Prototipoa [Nielsen-en 10 heuristikoak](https://www.nngroup.com/articles/ten-usability-heuristics/) erabiliz aztertu da:
-
 | # | Heuristikoa | Nola betetzen du TrukeGarai-k |
 |---|---|---|
 | 1 | Sistemaren egoeraren ikusgarritasuna | Erreserba eta ordainketaren egoera "Lokairuak" atalean ikusten da; beheko menuan ikono aktiboa berdez nabarmentzen da. |
