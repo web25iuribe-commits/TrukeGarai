@@ -89,6 +89,6 @@ Gure erabiltzaile nagusia **brikolaje-zale eraginkorra** da:
 
 ### Prototipoa
 
-<a src="https://www.figma.com/make/1tzNiJBsYTJrPsHr0uF3Zx/Web-page-for-TrukeGarai?t=jpz4V6PQyxFIaq9H-1">LINK</a>
+[LINK](https://www.figma.com/make/1tzNiJBsYTJrPsHr0uF3Zx/Web-page-for-TrukeGarai?t=jpz4V6PQyxFIaq9H-1)
 
 
