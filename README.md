@@ -82,4 +82,13 @@ Gure erabiltzaile nagusia **brikolaje-zale eraginkorra** da:
 - **Produktuak:** Txartel karratu edo errektangularrak izkina biribildu txikiekin.
 - **Erabiltzaileak:** Profil irudi borobil-borobilak.
 
+### Bozetoa
+<img width="3024" height="4032" alt="IMG_1479 (1)" src="https://github.com/user-attachments/assets/8afe953c-7c44-4773-bab6-f33f9abd10ef" />
+<img width="4032" height="3024" alt="IMG_1480 (1)" src="https://github.com/user-attachments/assets/af73ea77-9579-4171-8565-fab1f8faa2dd" />
+<img width="4032" height="3024" alt="IMG_1481 (1)" src="https://github.com/user-attachments/assets/84806dfb-b90a-4f85-90a0-92acafe22996" />
+
+### Prototipoa
+
+<a src="https://www.figma.com/make/1tzNiJBsYTJrPsHr0uF3Zx/Web-page-for-TrukeGarai?t=jpz4V6PQyxFIaq9H-1">LINK</a>
+
 
