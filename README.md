@@ -98,12 +98,11 @@ flowchart TD
 
 ## 5. Krokisa edo bozetoa (mobile eta desktop)
 
-### Mobile
-<img width="3024" height="4032" alt="Bozetoa mobile" src="https://github.com/user-attachments/assets/8afe953c-7c44-4773-bab6-f33f9abd10ef" />
-
-### Desktop
-<img width="4032" height="3024" alt="Bozetoa desktop 1" src="https://github.com/user-attachments/assets/af73ea77-9579-4171-8565-fab1f8faa2dd" />
+### Mugikorra
 <img width="4032" height="3024" alt="Bozetoa desktop 2" src="https://github.com/user-attachments/assets/84806dfb-b90a-4f85-90a0-92acafe22996" />
+
+### Ordenagailua
+<img width="4032" height="3024" alt="Bozetoa desktop 1" src="https://github.com/user-attachments/assets/af73ea77-9579-4171-8565-fab1f8faa2dd" />
 
 ---
 
