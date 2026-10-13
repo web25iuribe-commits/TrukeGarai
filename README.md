@@ -152,7 +152,7 @@ Prototipoan erabilitako irudi eta ikonoek beren jatorrizko lizentziak dituzte.
 
 ## 9. Erabilgarritasunaren azterketa
 
-| # |
+| # | Datuak | Informazioa |
 |---|---|---|
 | 1 | Sistemaren egoeraren ikusgarritasuna | Erreserba eta ordainketaren egoera "Lokairuak" atalean ikusten da; beheko menuan ikono aktiboa berdez nabarmentzen da. |
 | 2 | Sistemaren eta mundu errealaren arteko lotura | Hizkuntza argia eta ikono ezagunak (lupa, bihotza, pin-a, izarrak). |
